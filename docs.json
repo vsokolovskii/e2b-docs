@@ -125,6 +125,7 @@
               "docs/sandbox/persistence",
               "docs/sandbox/snapshots",
               "docs/sandbox/auto-resume",
+              "docs/sandbox/filesystem-only-snapshots",
               "docs/sandbox/git-integration",
               "docs/sandbox/metrics",
               "docs/sandbox/otel-telemetry-export",
@@ -250,6 +251,7 @@
           {
             "group": "FAQ",
             "pages": [
+              "docs/faq/increase-concurrency",
               "docs/faq/paused-sandboxes-concurrency",
               "docs/faq/template-limit",
               "docs/faq/public-templates",
