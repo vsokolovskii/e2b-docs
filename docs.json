@@ -40,6 +40,7 @@
                 ]
               },
               "docs/api-key",
+              "docs/projects",
               "docs/cookbook",
               "docs/support",
               "docs/billing"
@@ -63,6 +64,8 @@
               "docs/agents/codex",
               "docs/agents/crabbox",
               "docs/agents/devin",
+              "docs/agents/devin-outposts",
+              "docs/agents/droid",
               "docs/agents/grok",
               "docs/agents/deep-agents",
               "docs/agents/open-swe",
@@ -129,6 +132,7 @@
               "docs/sandbox/lifecycle-events-webhooks",
               "docs/sandbox/persistence",
               "docs/sandbox/snapshots",
+              "docs/sandbox/fork",
               "docs/sandbox/auto-resume",
               "docs/sandbox/filesystem-only-snapshots",
               "docs/sandbox/git-integration",
